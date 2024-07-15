@@ -1,6 +1,6 @@
 # Dashboard-support-Market-Expansion-Strategy
 
-[View the Dashboard](https://project.novypro.com/qDwtKS)
+<a href="https://project.novypro.com/qDwtKS" target="_blank"> Click here to View the Dashboard!</a>
 
 ## Introduction
 This dashboard presents the current business performance of **Superstore**, an e-commerce company. It provides Senior Managers with crucial insights into the company's business status, enabling them to devise market expansion strategies and make informed decisions on strategic product selection.
