@@ -14,6 +14,15 @@ The objective of this dashboard is to provide Senior Managers at **Superstore** 
 - What are the purchasing behavior trends of customers in each region?
 - Which market holds the greatest potential for **Superstore**'s expansion and development?
 
+## Key Metrics:
+- **Gross Merchandise Volume (GMV)**: The value of orders placed on the online platform within a period of time. Calculated based on the total value of all orders in all delivery statuses, including: Delivered, Canceled, Failed Delivered, Returned.
+
+  **Reason for selecting this metric:** Through research on data, this data set is data about orders of an e-commerce company that is an intermediary selling many products about technology, stationery and furniture. Therefore, the most effective measurement of the value of orders we use is GMV (Gross Merchandise Value), which is the value of orders placed on the online platform in a period of time. It will most comprehensively reflect the business status and growth of an e-commerce enterprise.
+
+- **Net Merchandise Volume (GMV)**: The total value of successful goods transactions placed on the online platform within a period of time, NMV is only calculated on orders in completed status (Delivered).
+
+  **Reason for selecting this metric:** With the goal of seeing the current business situation, stackholders choose strategic products to expand the market, understanding GMV is not enough, it is necessary to add NMV which is the total value of successful goods transactions placed on the online platform in a period of time, this value will more specifically reflect the business's performance in distribution channels as well as industries and products.
+
 ## Insight and Recommendations
 
 <p align="center">
